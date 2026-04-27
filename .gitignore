@@ -9,6 +9,7 @@ cifar_root/
 # Distribution / packaging
 .Python
 build/
+.gemini/
 develop-eggs/
 dist/
 downloads/
