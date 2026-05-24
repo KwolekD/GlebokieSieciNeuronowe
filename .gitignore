@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 cifar_root/
+insect_data/
+root/
+.claude/
 # Distribution / packaging
 .Python
 build/
